@@ -15,7 +15,7 @@ Education
 * M.S. in Economics, Singapore Management University, 2007
 * Ph.D in Economics, Vanderbilt University, 2018
 
-Work experience
+Employment
 ======
 * 2018 - Present
   * Renmin Univeristy
