@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Dr. Ying Zheng"
+title                    : "Ying Zheng"
 title_separator          : "-"
-name                     : &name "Dr. Ying Zheng"
-description              : &description "Assistant Professor at Renmin Univeristy of China"
+name                     : &name "Ying Zheng"
+description              : &description "Assistant Professor of Economics"
 url                      : https://yingzheng-econ.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "yingzheng-econ.github.io"
