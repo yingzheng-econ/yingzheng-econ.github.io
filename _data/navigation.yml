@@ -8,6 +8,6 @@ main:
   - title: "Teaching"
     url: /teaching/
   - title: "Vita"
-    url: https://github.com/yingzheng-econ/yingzheng-econ.github.io/blob/master/YingZheng_CV_EN.pdf
+    url: <a href="yingzheng-econ.github.io/blob/master/YingZheng_CV_EN.pdf" target="_blank">PDF.</a>
   - title: "Blog"
     url: /blog/
