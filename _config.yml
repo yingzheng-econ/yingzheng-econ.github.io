@@ -136,7 +136,7 @@ og_image: /assets/images/default-thumb.png
 comments:
   provider: "disqus"
   disqus:
-    shortname: "grantmcdermott-blog"
+    shortname: "yingzheng-blog"
 
 category_archive:
   type: liquid
