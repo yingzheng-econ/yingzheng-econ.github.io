@@ -5,53 +5,43 @@ header:
   image: /assets/images/moro-crop2.jpg
 ---
 
-**Fields:** Environmental and natural resource economics. Applied econometrics and data science. Uncertainty and Bayesian learning.
+**Fields:** Empirical IO, Applied Microeconomics.
 
-**Interests:** Energy markets and climate change. Water management. Fisheries policy. The impact of environmental quality on market outcomes.
+**Interests:** Econometrics, Corporate Finance, Energy Economics
 
 ## Working papers
 
-"Hydro power. Market might."
+"How Costly to Sell a Company? A Structural Analysis of Takeover Auctions," with Dong-Hyuk Kim.
 
-*A central tenet of economic theory is that market power induces deadweight loss. This claim rests on an assumption that is difficult to verify empirically. Namely, that dominant firms produce less than the social optimum. I provide evidence of such restrictive behaviour using a rich dataset of Norwegian hydropower firms. The research design exploits exogenous variation in market power, arising from transmission bottlenecks and the formation of localized electricity markets. The unique production traits of hydropower production further helps to avoid empirical complications associated with marginal cost estimation and endogenous variation in the supply mix. This allows me to identify the causal impact of market power on firm behaviour in a reduced-form setting that requires minimal assumptions. I show that gaining pivotal status can cause firms to withhold production by as much as a two to five percent. My results suggest that even nominally competitive markets are susceptible to strategic manipulation and welfare losses.* ([Paper]({{ site.url }}/papers/hydro.pdf){:target="_blank"}.)
+*To explain why sellers in takeover auctions limit bidders entry, we structurally measure economic costs incurred by the seller for inviting an additional bidder. Our auction model allows bidders to discount their synergy values when rivals obtain the target company's confidential information, which induces the information cost. We identify the model primitives with unobserved heterogeneity, as confidential information is latent. From a sample of U.S. M&As, we find that the unobserved heterogeneity is critical, bidders lower values by 11.9\% for each rival, and the information (operation) cost amounts to 1.3\% (4.1\%) of the equilibrium deal value for a representative target.* 
 
-<!-- Example of show/hide toggle for abstract:
-<details>
-  <summary>Abstract</summary>
-   <i>Hydropower is the world's foremost source of non-fossil fuel energy. It is also characterised by a unique set of production features that have the potential to greatly simplify economic questions related to firm behaviour and output. I exploit these characteristics, together with plant-level data and exogenous variation in market power, to identify evidence of noncompetitive behaviour in the Nordic electricity sector. Consistent with economic theory, I show that increased market power causes firms to withhold production during inelastic demand periods, thereby yielding higher profits and driving up consumer prices. The larger takeaway is that even our most advanced markets are susceptible to price distortions and welfare losses under fairly common conditions.</i>
-</details>
-<br>
--->
+"Asymmetric Adjustment of Domestic Gasoline Price to International Crude Oil Price in China: Evidence from Panel Data," with Xiaobing Zhang.
 
+*China is the second largest oil consumer and the largest crude oil importer in the world. Today, China’s oil dependence has exceeded 60\%, and domestic oil consumption has been profoundly affected by fluctuations of international oil prices. Due to the complex price transmission process and factors such as government policies and oil duopoly, domestic gasoline prices often have an asymmetric response to the international crude oil price change, which means that gasoline prices respond faster to oil price increases than to equivalent oil price decreases. Using a panel data covering 16 cities from January 2004 to December 2019, we show that there is a significant asymmetric adjustment in China’s gasoline retail prices. We also illustrate that Chinese retail gasoline pricing mechanism can explain the speed and magnitude of the asymmetric responses.*
 
-## Selected works in progress
+"Renewable Penetration and Electricity Prices: Ownership Matters," with Jing Long
 
-"The value of mass information: Search in the Google era." With Christopher J. Costello and Michael B. Ward.
+*Motivated by the growth of renewable generation and development of electricity market in China, this study analyzes the impact of renewable penetration on the market outcomes under different market and ownership structure. We construct a two-stage oligopolistic model consisting symmetric strategic suppliers and competitive fringe suppliers who are allowed to make production decisions for each of their generation technology. Based on the theoretical model, we further conduct a series of simulation study to illustrate the theoretical result by exploring different set of model parameter configurations. We find that the amount of price decline could be partially or fully reduced when strategic suppliers a large proportion of renewable generation assets as a result of market power. Using the ownership and capacity information of the “big-five” electricity groups, Our simulation shows that this ownership effect will emerge in the future Chinese electricity market according to Chinas renewable policy and targets. Furthermore, the forward contracting stage is pro-competitive or even over-competitive, depending on both the market and ownership structure.*
 
+## Works in progress
+
+"Optimal Shortlisting Rule with Entry Control by An Informed Seller." 
 <!--
-*A broad class of economic decision problems involves searching over a collection of uncertain research leads. Existing search theory informs the efficient search over this pool using available information. But in many cases, the researcher has the opportunity to collect new information en masse, e.g. with a search engine or scientific framework, that will benefit the search. We derive the value of this type of bulk information, determine the general properties that render it large or small, and calculate its implications for economic innovation. We show that changes to the underlying characteristics of different search problems can yield surprising results. For example, more lucrative end-prizes can actually reduce the value of information, while the possibility of better information often suppresses innovation.*
+*This study is a theoretical extension of my job market paper of takeover auctions, where indicative bidding and shortlisting is a common practice. I first develop a two-stage auction model with entry control by an informed seller who observes bidders’ initial types (signals). Then I study how the seller, who has information valuable to the bidders, maximizes his expected profit by shortlisting potential bidders into the final-stage auction. The shortlisted bidders are asymmetric in their types (private valuation plus beliefs) because their private beliefs about the other shortlisted bidders rely on their private initial types. Except for takeover auctions, this model also describes many real-world auctions with a qualification stage, such as a real estate sale.*
 -->
 
+"Optimal Auction Design with Selective Entry."
+<!--
+*This paper studies the optimal auction design by a revenue-maximizing seller in a two-stage auction model with selective entry. Following Stegeman (1996) and Lu (2009), I consider the feasible semidirect mechanism with a symmetric threshold-entry. In order to implement the optimal entry threshold, we need to consider a generalized virtual value, which is non-monotone in general. To handle the non-monotonicity of the generalized virtual value, I use the ironing technique described in Myerson (1981) to obtain a monotone (ironed) virtual value. Then we select the optimal mechanism to maximize the (ironed) virtual value.*
+-->
+
+"Semiparametric Estimation of Arbitrage-free Option Bounds," with Yanqing Fan and Xiaoxia Shi.
+<!--
+*In this paper, we develop inference procedures for subsets of parameters defined by both uniform and local conditional moment inequalities. We apply this procedure to infer the Arbitrage-free bounds for the S&P500 options with given strike prices and time-to-maturity from the observed time-series data of S&P500 index and cross-sectional data of S&P500 option (SPX). This procedure is applicable to many empirical asset pricing in incomplete market.*
+-->
 
 ## Publications
 
-"Sceptic priors and climate consensus." Published in **<i>Climatic Change</i>**, 2021 (166:7). [Paper](https://rdcu.be/cle8u){:target="_blank"}. [Pre-print](https://grantmcdermott.com/papers/sceptic.pdf){:target="_blank"}. [Code](https://github.com/grantmcdermott/skeptic-priors){:target="_blank"}.
-
-"Alternate explanations for the blue paradox do not withstand statistical scrutiny." With Kyle C. Meng, Gavin G. McDonald and Christopher J. Costello. Published in **<i>Proceedings of the National Academy of Sciences</i>**, 115 (52), E12124–E12125, 2018. ([Paper](https://doi.org/10.1073/pnas.1818687115){:target="_blank"}. [Ungated](http://grantmcdermott.com/papers/mcdermott2019blueparadox-reply.pdf){:target="_blank"}. [Code](https://github.com/grantmcdermott/blueparadox){:target="_blank"}.)
-
-"The Blue Paradox: Preemptive Overfishing in Marine Reserves." With Kyle C. Meng, Gavin G. McDonald and Christopher J. Costello. Published in **<i>Proceedings of the National Academy of Sciences</i>**, 116 (12), 5319–5325, 2019. ([Paper](http://dx.doi.org/10.1073/pnas.1802862115){:target="_blank"}. [Ungated]({{ site.url }}/papers/mcdermott2019blueparadox.pdf){:target="_blank"}. [Code](https://github.com/grantmcdermott/blueparadox){:target="_blank"}. [Blog post and media coverage]({{ site.url }}/2018/08/29/blue-paradox-pnas/){:target="_blank"}.)
-
-"Protecting marine mammals, turtles and birds by rebuilding global fisheries." With Matthew G. Burgess and others. Published in **<i>Science</i>**, 359 (6381) 1255–31258, 2018. ([Paper](http://dx.doi.org/10.1126/science.aao4248){:target="_blank"}. [Ungated]({{ site.url }}/papers/burgess2018bycatch.pdf){:target="_blank"}.  [Code](https://github.com/grantmcdermott/bycatch){:target="_blank"}. [Blog post and media coverage]({{ site.url }}/2018/03/16/science-bycatch/){:target="_blank"}.)
-
-"Five rules for pragmatic blue growth." With Matthew G. Burgess and others. Published in **<i>Marine Policy</i>**, 87 (2018) 331–339, 2018. ([Paper](http://dx.doi.org/10.1016/j.marpol.2016.12.005){:target="_blank"}. [Ungated]({{ site.url }}/papers/burgess2018bluegrowth.pdf){:target="_blank"}.)
-
-"Resolving disputes over ocean calamities." With Matthew G. Burgess. Published in **<i>BioScience</i>**, 65(12), 1115-1116, 2015. ([Paper](http://dx.doi.org/10.1093/biosci/biv147){:target="_blank"}. [Ungated]({{ site.url }}/papers/burgess2015resolving.pdf){:target="_blank"}.)
-
-"Electricity prices, river temperatures and cooling water scarcity." With Øivind A. Nilsen. Published in **<i>Land Economics</i>**, 90(1), 131-148, 2014. ([Paper](http://dx.doi.org/10.3368/le.90.1.131){:target="_blank"}. [Ungated]({{ site.url }}/papers/mcdermott2014electricity.pdf){:target="_blank"}. [Blog post and media coverage]({{ site.url }}/2013/01/14/electricity-prices-river-temperatures-water-scarcity/){:target="_blank"}.)
+"Price ceilings as focal points to reach price uniformity: Evidence from the Chinese gasoline mar- ket" Published in **<i>Energy Economics</i>**, 92, 111, 2020 (166:7). [Paper](https://xxx){:target="_blank"}. [Pre-print](https://xxx.pdf){:target="_blank"}. [Code](https://github.com/yingzheng-econ){:target="_blank"}.
 
 
-## Report chapters
-
-"South Africa Compliance Analysis." With James Morrissey and Davina Mendelsohn, in “Governing Global Climate Change: St Petersburg Compliance Report for the ‘G8 Plus Five’ Countries”, Maria Banda and Joanna Langille (eds.), G8 Final Compliance Report 2007, Oxford: G8 Research Group Oxford, 1 June 2007. xiii + 190 pp. ([Report](http://www.g8.utoronto.ca/oxford/2006compliance-ox.pdf){:target="_blank"}.)
-
-"The Current Status of the EPWP (Infrastructure) in the Western Cape." With Anna McCord, Kim Adonis and Lisa van Dongen. Prepared for the Western Cape Provincial Treasury & Department of Transport And Public Works CAPE. Public Works Research Project, SALDRU, UCT, 24 March 2006. ([Report](http://www.saldru.uct.ac.za/documentation/reports-and-studies-1/147-the-current-status-of-the-epwp-infrastructure-in-the-western-cape-1){:target="_blank"}.)

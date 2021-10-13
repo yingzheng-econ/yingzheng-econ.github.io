@@ -5,16 +5,19 @@ header:
   image: /assets/images/haceta-crop2.jpg
 ---
 
-Unless otherwise noted, all courses are currently being taught at the University of Oregon's Department of Economics.
-
 ### Graduate
 
-*Data Science for Economists*, EC 607. ([Syllabus](https://github.com/uo-ec607/syllabus/blob/master/syllabus.pdf). [Lectures](https://github.com/uo-ec607/lectures).)
+*Industrial Organization and Digital Markets*. ([Syllabus](https://github.com/XXX.pdf). [Lectures](https://github.com/xxx).)
 
-*Big Data in Economics*, EC 510. ([Syllabus](https://github.com/uo-ec510-2020-spring/syllabus/blob/master/syllabus.pdf). [Lectures](https://github.com/uo-ec510-2020-spring/lectures).)
+*Empirical IO: Applications in Energy Market*. ([Syllabus](https://github.com/XXX.pdf). [Lectures](https://github.com/xxx).)
+
+*Empirical IO: Basics. ([Syllabus](https://github.com/XXX.pdf). [Lectures](https://github.com/xxx).)
+
+*Advanced Microeconomic Theory*. ([Syllabus](https://github.com/XXX.pdf). [Lectures](https://github.com/xxx).)
+
+*Industrial Organization Theory*. ([Syllabus](https://github.com/XXX.pdf). [Lectures](https://github.com/xxx).)
+
 
 ### Undergraduate
 
-*Environmental Economics*, EC 434. ([Syllabus](https://drive.google.com/file/d/1Ut5_qRwkKr_PsLNyUYG9ttKZdbiBhqAs/view?usp=sharing).)
-
-*Intermediate Microeconomic Theory*, EC 311. 
+*Intermediate Microeconomic Theory*. ([Syllabus](https://github.com/XXX.pdf). [Lectures](https://github.com/xxx).)
