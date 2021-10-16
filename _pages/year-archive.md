@@ -1,6 +1,6 @@
 ---
 title: "Posts archived by year"
-permalink: /media/year-archive/
+permalink: /blog/year-archive/
 layout: posts
 author_profile: true
 ---

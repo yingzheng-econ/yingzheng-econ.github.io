@@ -1,6 +1,6 @@
 ---
 title: Media
-permalink: /media/
+permalink: /blog/
 header:
   image: /assets/images/haceta-crop2.jpg
 ---
