@@ -133,10 +133,10 @@ og_image: /assets/images/default-thumb.png
 
 # Comments
 # https://mmistakes.github.io/minimal-mistakes/docs/configuration/#disqus
-comments:
-  provider: "disqus"
-  disqus:
-    shortname: "yingzheng-blog"
+#comments:
+  #provider: "disqus"
+  #disqus:
+    #shortname: "yingzheng-blog"
 
 category_archive:
   type: liquid
