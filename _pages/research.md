@@ -11,8 +11,7 @@ header:
 
 ## Working papers
 
-- **"How Costly to Sell a Company? A Structural Analysis of Takeover Auctions," with Dong-Hyuk Kim.**
-
+- **"How Costly to Sell a Company? A Structural Analysis of Takeover Auctions," with Dong-Hyuk Kim.**  
 *To explain why sellers in takeover auctions limit bidders entry, we structurally measure economic costs incurred by the seller for inviting an additional bidder. Our auction model allows bidders to discount their synergy values when rivals obtain the target company's confidential information, which induces the information cost. We identify the model primitives with unobserved heterogeneity, as confidential information is latent. From a sample of U.S. M&As, we find that the unobserved heterogeneity is critical, bidders lower values by 11.9% for each rival, and the information (operation) cost amounts to 1.3% (4.1%) of the equilibrium deal value for a representative target.*
 
 - **"Asymmetric Adjustment of Domestic Gasoline Price to International Crude Oil Price in China: Evidence from Panel Data," with Xiaobing Zhang.**
