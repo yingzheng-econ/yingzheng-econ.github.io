@@ -11,7 +11,7 @@ header:
 
 ## Publications
 
-- "Price ceilings as focal points to reach price uniformity: Evidence from the Chinese gasoline mar- ket" Published in **<i>Energy Economics</i>**, 92, 111, 2020. [Paper](https://doi.org/10.1016/j.eneco.2020.104950){:target="_blank"}.
+- **"Price ceilings as focal points to reach price uniformity: Evidence from the Chinese gasoline mar- ket"** published in <i>Energy Economics</i>, 92, 111, 2020. [Paper](https://doi.org/10.1016/j.eneco.2020.104950){:target="_blank"}.
 
 ## Working papers
 
