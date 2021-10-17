@@ -9,6 +9,10 @@ header:
 
 **Interests:** Econometrics, Corporate Finance, Energy Economics
 
+## Publications
+
+"Price ceilings as focal points to reach price uniformity: Evidence from the Chinese gasoline mar- ket" Published in **<i>Energy Economics</i>**, 92, 111, 2020. [Paper](https://doi.org/10.1016/j.eneco.2020.104950){:target="_blank"}.
+
 ## Working papers
 
 - **"How Costly to Sell a Company? A Structural Analysis of Takeover Auctions," with Dong-Hyuk Kim.**  
@@ -32,8 +36,3 @@ header:
 
 - **"Semiparametric Estimation of Arbitrage-free Option Bounds," with Yanqing Fan and Xiaoxia Shi.**  
 *In this paper, we develop inference procedures for subsets of parameters defined by both uniform and local conditional moment inequalities. We apply this procedure to infer the Arbitrage-free bounds for the S&P500 options with given strike prices and time-to-maturity from the observed time-series data of S&P500 index and cross-sectional data of S&P500 option (SPX). This procedure is applicable to many empirical asset pricing in incomplete market.*
-
-
-## Publications
-
-"Price ceilings as focal points to reach price uniformity: Evidence from the Chinese gasoline mar- ket" Published in **<i>Energy Economics</i>**, 92, 111, 2020. [Paper](https://xxx){:target="_blank"}. [Pre-print](https://xxx.pdf){:target="_blank"}. [Code](https://github.com/yingzheng-econ){:target="_blank"}.
