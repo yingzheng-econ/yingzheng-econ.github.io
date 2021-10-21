@@ -2,7 +2,7 @@
 title: Teaching
 permalink: /teaching/
 header:
-  image: /assets/images/new/school.jpeg
+  image: /assets/images/new/daocheng.jpeg
 ---
 
 ### Graduate
