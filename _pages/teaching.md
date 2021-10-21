@@ -2,7 +2,7 @@
 title: Teaching
 permalink: /teaching/
 header:
-  image: /assets/images/haceta-crop2.jpg
+  image: /assets/images/new/school.jpeg
 ---
 
 ### Graduate
