@@ -2,7 +2,7 @@
 title: Research
 permalink: /research/
 header:
-  image: /assets/images/econometrics.png
+  image: /assets/images/new/econometrics.png
 ---
 
 **Fields:** Empirical IO, Applied Microeconomics.
