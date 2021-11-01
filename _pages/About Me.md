@@ -11,6 +11,9 @@ header:
 >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 -- Albert Einstein, The Fundaments of Theoretical Physics, Science, 1940.
 
+Einstein, Albert. “Considerations Concerning the Fundaments of Theoretical Physics.” Science 91, no. 2369 (1940): 487–92. http://www.jstor.org/stable/1666680.
+
+
 I am an assistant professor of economics at the Renmin University of China. My research is in the area of Industrial Organization and Applied Microeconomics. I am also interested in the econometric problems motivated by IO applications.
 
 In a nutshell, I am interested in utilizing micro-level data to estimate economic agents' preference and technology parameters that rationalize their behaviors, assessing the efficiency of the studied markets, and hopefully proposing an alternative market design to improve market performance. My current research focus on IO applications in financial markets and energy markets. In particular, I am developing empirical auction models to assess corporate takeover process, and building oligopoly models to study energy market competition. I am expanding my research into IO applications in other markets, such as platform competition and regulation.
