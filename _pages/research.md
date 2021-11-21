@@ -41,8 +41,7 @@ Fei and Lei Zhang.][Paper](https://doi.org/10.1016/j.eneco.2020.104950){:target=
 - **"Platform Competition with Intra-Group Price and Non-price Discrimination," with Tao Jiaqi, Huang Jun.**
 
 
-
-{css, echo=FALSE}
+```{css, echo=FALSE}
 .spoiler {
   visibility: hidden;
 }
@@ -59,7 +58,7 @@ Fei and Lei Zhang.][Paper](https://doi.org/10.1016/j.eneco.2020.104950){:target=
 .spoiler:hover::before {
   display: none;
 }
-
+```
 
 
 <p class="spoiler">Test</p>
