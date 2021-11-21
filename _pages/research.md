@@ -38,4 +38,28 @@ Fei and Lei Zhang.][Paper](https://doi.org/10.1016/j.eneco.2020.104950){:target=
 - **"Semiparametric Estimation of Arbitrage-free Option Bounds," with Yanqing Fan and Xiaoxia Shi.**  
 *In this paper, we develop inference procedures for subsets of parameters defined by both uniform and local conditional moment inequalities. We apply this procedure to infer the Arbitrage-free bounds for the S&P500 options with given strike prices and time-to-maturity from the observed time-series data of S&P500 index and cross-sectional data of S&P500 option (SPX). This procedure is applicable to many empirical asset pricing in incomplete market.*  
 
-- **"Platform Competition with Intra-Group Price and Non-price Discrimination," with Tao Jiaqi, Huang Jun.**  
+- **"Platform Competition with Intra-Group Price and Non-price Discrimination," with Tao Jiaqi, Huang Jun.**
+
+
+
+{css, echo=FALSE}
+.spoiler {
+  visibility: hidden;
+}
+
+.spoiler::before {
+  visibility: visible;
+  content: "Spoiler alert! Hover me to see the answer."
+}
+
+.spoiler:hover {
+  visibility: visible;
+}
+
+.spoiler:hover::before {
+  display: none;
+}
+
+
+
+<p class="spoiler">Test</p>
