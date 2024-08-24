@@ -20,7 +20,7 @@ header:
 - **"Asymmetric Pass-through of Crude Oil Prices to Gasoline Prices: Evidence from Chinese Gasoline Pricing Reform,"** <i>International Journal of Global Environmental Issues</i>. [**Accepted**, **corresponding author** with Xiaobing Zhang and Mengyang Liu.]
 
 ## Books
-**"Energy Storage and Electricity Markets for New Power Systems,"** <i>China Machine Press</i>, 2024(**in Chinese**),[with Xi He, Xuewen Geng, Shanpeng Pei and Jian Liu]. ISBN 9787111757733. [link][https://baike.baidu.com/item/面向新型电力系统的储能与电力市场/64572646?fr=ge_ala#reference-1]
+**"Energy Storage and Electricity Markets for New Power Systems,"** <i>China Machine Press</i>, 2024(**in Chinese**),[with Xi He, Xuewen Geng, Shanpeng Pei and Jian Liu]. ISBN 9787111757733. [link][https://item.jd.com/10105235344776.html]{:target="_blank"}.  
 
 ## Working Papers
 
@@ -34,9 +34,9 @@ header:
 
 -  **"When Carbon Emission Trading Meets a Regulated Industry: Insights from Coal-fired Power Sector in China,"** with Dong-Hyuk Kim and Hui Qiao. (**under review**). 
 
--**"Market Structure and Firm Conducts in the Chinese Photovoltaic Industry,"** with Li Su. (**under review**). 
+- **"Market Structure and Firm Conducts in the Chinese Photovoltaic Industry,"** with Li Su. (**under review**). 
 
--**"Optimal Storage Adoption Level for Wind Farms: Evidence from China,"** with Yucheng Qian and Hui Qiao.
+- **"Optimal Storage Adoption Level for Wind Farms: Evidence from China,"** with Yucheng Qian and Hui Qiao.
 
 - **"Market Power in Electricity Markets with Renewables: The Effects of Ownership and Forward Contract Allocation,"** with [Jing Long](https://jing042323.github.io/jing-long/). 
   <details>
