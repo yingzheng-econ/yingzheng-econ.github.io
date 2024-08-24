@@ -15,7 +15,7 @@ header:
 - **Graduate Courses**  
   * Advanced Microeconomic Theory (Falls 2018, 2019, 2020, 2021, 2022, 2023)   
    * Empirical Industrial Organization (Falls 2019, 2020, 2021, 2022, 2023)   
-  * Industrial Organization Theory (Falls 2018, 2019,2021; Spring 2020)  
+  * Industrial Organization Theory (Falls 2018, 2019, 2021; Spring 2020)  
   * Industrial Organization in Digital Markets (Fall 2020)  
 
 - **Undergraduate Courses**  
