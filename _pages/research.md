@@ -20,7 +20,7 @@ header:
 - **"Asymmetric Pass-through of Crude Oil Prices to Gasoline Prices: Evidence from Chinese Gasoline Pricing Reform,"** <i>International Journal of Global Environmental Issues</i>. [**Accepted**, **corresponding author** with Xiaobing Zhang and Mengyang Liu.]
 
 ## Books
-**"Energy Storage and Electricity Markets for New Power Systems,"** <i>China Machine Press</i>, 2024(**in Chinese**),[with Xi He, Xuewen Geng, Shanpeng Pei and Jian Liu]. ISBN 9787111757733. [link][https://item.jd.com/10105235344776.html]{:target="_blank"}.  
+**"Energy Storage and Electricity Markets for New Power Systems,"** <i>China Machine Press</i>, 2024(**in Chinese**),[with Xi He, Xuewen Geng, Shanpeng Pei and Jian Liu]. ISBN 9787111757733. [link](https://baike.baidu.com/item/面向新型电力系统的储能与电力市场/64572646?fr=ge_ala#reference-1){:target="_blank"}.  
 
 ## Working Papers
 
