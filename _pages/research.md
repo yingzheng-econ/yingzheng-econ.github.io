@@ -5,9 +5,9 @@ header:
   image: /assets/images/new/econometrics.png
 ---
 
-**Fields:** Empirical IO, Applied Microeconomics.
+**Primary:** Empirical IO, Applied Microeconomics.
 
-**Interests:** Econometrics, Corporate Finance, Energy Economics
+**Secondary:** Econometrics, Corporate Finance, Energy Economics, Environmental Economics
 
 ## Publications
 
