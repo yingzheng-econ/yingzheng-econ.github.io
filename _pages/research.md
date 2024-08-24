@@ -11,12 +11,20 @@ header:
 
 ## Publications
 
-- **"Price ceilings as focal points to reach price uniformity: Evidence from the Chinese gasoline market"** published in <i>Energy Economics</i>, 92, 111, 2020.[with Xiaobing Zhang, Yinxin
-Fei and Lei Zhang.][Paper](https://doi.org/10.1016/j.eneco.2020.104950){:target="_blank"}.
+- **"Price ceilings as focal points to reach price uniformity: Evidence from the Chinese gasoline market,"** <i>Energy Economics</i>. 92, 1-11, 2020. [**corresponding author** with Xiaobing Zhang, Yinxin Fei and Lei Zhang.][Paper](https://doi.org/10.1016/j.eneco.2020.104950){:target="_blank"}.  
 
-## Working papers
+- **"The Dynamic Complementarity of Renewable Energy Sources: A Bayesian Vector Autoregressive Approach,"** <i>International Journal of Green Energy</i>. 1–13, 2022. [**corresponding author** with Jinliang Che, Zidong An and Feng Song.]. 
 
-- **"How Costly to Sell a Company? A Structural Analysis of Takeover Auctions," with Dong-Hyuk Kim.**  
+- **"Accounting and Decomposition of China’s Co2 Emissions 1981–2020,"** <i>Applied Energy</i>. 124104, 2024. [**corresponding author** with Chen, Z., J. Ma, N. Wang, Z. Chen, L. Wang, Q. Xiong and P. Chen, H. Zhang.]
+
+- **"Asymmetric Pass-through of Crude Oil Prices to Gasoline Prices: Evidence from Chinese Gasoline Pricing Reform,"** <i>International Journal of Global Environmental Issues</i>. [**Accepted**, **corresponding author** with Xiaobing Zhang and Mengyang Liu.]
+
+## Books
+**"Energy Storage and Electricity Markets for New Power Systems,"** <i>China Machine Press</i>, 2024(**in Chinese**),[with Xi He, Xuewen Geng, Shanpeng Pei and Jian Liu]. ISBN 9787111757733. [link][https://baike.baidu.com/item/面向新型电力系统的储能与电力市场/64572646?fr=ge_ala#reference-1]
+
+## Working Papers
+
+- **"How Costly to Sell a Company? A Structural Analysis of Takeover Auctions,"** with Dong-Hyuk Kim. (**under review**)
   <details>
     <summary>Abstract</summary>
 
@@ -24,14 +32,13 @@ Fei and Lei Zhang.][Paper](https://doi.org/10.1016/j.eneco.2020.104950){:target=
 
   </details>  
 
-- **"Asymmetric Adjustment of Domestic Gasoline Price to International Crude Oil Price in China: Evidence from Panel Data," with Xiaobing Zhang.**  
-  <details>
-    <summary>Abstract</summary>
+-  **"When Carbon Emission Trading Meets a Regulated Industry: Insights from Coal-fired Power Sector in China,"** with Dong-Hyuk Kim and Hui Qiao. (**under review**). 
 
-    As the second largest oil consumer and the largest crude oil importer in the world, Chinas oil consumption has been profoundly affected by fluctuations of international oil prices. It has been evident in the literature that gasoline price often have an asymmetric response to the international crude oil price, which means that gasoline prices increase faster as oil price increases than to decline when oil price decreases, i.e., the so-called rocket and feather effect. Using a panel data covering 16 cities from January 2004 to December 2019, we show that there is a significant asymmetric adjustment in China’s gasoline retail prices. We also illustrate that Chinese retail gasoline pricing mechanism can explain the speed and magnitude of the asymmetric responses.
-  </details>   
+-**"Market Structure and Firm Conducts in the Chinese Photovoltaic Industry,"** with Li Su. (**under review**). 
 
-- **"Renewable Penetration and Electricity Prices: Ownership Matters," with [Jing Long](https://jing042323.github.io/jing-long/).**  
+-**"Optimal Storage Adoption Level for Wind Farms: Evidence from China,"** with Yucheng Qian and Hui Qiao.
+
+- **"Market Power in Electricity Markets with Renewables: The Effects of Ownership and Forward Contract Allocation,"** with [Jing Long](https://jing042323.github.io/jing-long/). 
   <details>
     <summary>Abstract</summary>
 
