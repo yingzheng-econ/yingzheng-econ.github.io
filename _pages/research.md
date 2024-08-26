@@ -32,7 +32,12 @@ header:
 
   </details>  
 
--  **"When Carbon Emission Trading Meets a Regulated Industry: Insights from Coal-fired Power Sector in China,"** with Dong-Hyuk Kim and Hui Qiao. (**under review**). 
+-  **"When Carbon Emission Trading Meets a Regulated Industry: Insights from Coal-fired Power Sector in China,"** with Dong-Hyuk Kim and Hui Qiao. (**under review**).   
+ <details>
+    <summary>Abstract</summary>
+    We analyze the impact of emission trading systems, such as tradable performance standards (TPS) and cap-and-trade (C&T) schemes, in China's coal-fired generation sector characterized by price regulation and high concentration. Our oligopoly model shows that TPS and C&T partially offset the adverse effects of power prices regulated below equilibrium. Unlike C&T, TPS further facilitates production reallocation towards low-emission firms, suggesting its efficacy in emission reduction. From market data, we uncover cost functions for five major firms in Guangdong province to conduct realistic policy simulations. Compared to the current TPS setup, the optimal TPS and C&T under the regulated price reduce emissions by 11.1 and 7.6 million tonnes, respectively. The optimal TPS enhances social welfare by 250 million RMB, while the optimal C&T decreases it by 485 million RMB. Moreover, the optimal TPS above approximates the case where the power price is further adjusted to maximize social welfare.
+ </details>  
+
 
 - **"Market Structure and Firm Conducts in the Chinese Photovoltaic Industry,"** with Li Su. (**under review**). 
 
@@ -60,12 +65,5 @@ header:
 
     This paper studies the optimal auction design by a revenue-maximizing seller in a two-stage auction model with selective entry. Following Stegeman (1996) and Lu (2009), I consider the feasible semidirect mechanism with a symmetric threshold-entry. In order to implement the optimal entry threshold, we need to consider a generalized virtual value, which is non-monotone in general. To handle the non-monotonicity of the generalized virtual value, I use the ironing technique described in Myerson (1981) to obtain a monotone (ironed) virtual value. Then we select the optimal mechanism to maximize the (ironed) virtual value.
   </details>   
-
-- **"Semiparametric Estimation of Arbitrage-free Option Bounds," with Yanqing Fan and Xiaoxia Shi.**  
-  <details>
-    <summary>Abstract</summary>
-
-    In this paper, we develop inference procedures for subsets of parameters defined by both uniform and local conditional moment inequalities. We apply this procedure to infer the Arbitrage-free bounds for the S&P500 options with given strike prices and time-to-maturity from the observed time-series data of S&P500 index and cross-sectional data of S&P500 option (SPX). This procedure is applicable to many empirical asset pricing in incomplete market.
-  </details>  
 
 - **"Platform Competition with Intra-Group Price and Non-price Discrimination," with Tao Jiaqi, Huang Jun.**
