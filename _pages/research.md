@@ -33,10 +33,10 @@ header:
   </details>  
 
 -  **"When Carbon Emission Trading Meets a Regulated Industry: Insights from Coal-fired Power Sector in China,"** with [Dong-Hyuk Kim](https://sites.google.com/site/kimdonghyuk000) and [Hui Qiao](https://sites.google.com/view/huiqiao/). (**under review**).   
- <details>
+  <details>
     <summary>Abstract</summary>
     We analyze the impact of emission trading systems, such as tradable performance standards (TPS) and cap-and-trade (C&T) schemes, in China's coal-fired generation sector characterized by price regulation and high concentration. Our oligopoly model shows that TPS and C&T partially offset the adverse effects of power prices regulated below equilibrium. Unlike C&T, TPS further facilitates production reallocation towards low-emission firms, suggesting its efficacy in emission reduction. From market data, we uncover cost functions for five major firms in Guangdong province to conduct realistic policy simulations. Compared to the current TPS setup, the optimal TPS and C&T under the regulated price reduce emissions by 11.1 and 7.6 million tonnes, respectively. The optimal TPS enhances social welfare by 250 million RMB, while the optimal C&T decreases it by 485 million RMB. Moreover, the optimal TPS above approximates the case where the power price is further adjusted to maximize social welfare.
- </details>  
+  </details>  
 
 
 - **"Market Structure and Firm Conducts in the Chinese Photovoltaic Industry,"** with Li Su. (**under review**). 
