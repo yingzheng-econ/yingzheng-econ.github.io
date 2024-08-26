@@ -35,7 +35,9 @@ header:
 -  **"When Carbon Emission Trading Meets a Regulated Industry: Insights from Coal-fired Power Sector in China,"** with [Dong-Hyuk Kim](https://sites.google.com/site/kimdonghyuk000) and [Hui Qiao](https://sites.google.com/view/huiqiao/). (**under review**).   
   <details>
     <summary>Abstract</summary>
+    
     We analyze the impact of emission trading systems, such as tradable performance standards (TPS) and cap-and-trade (C&T) schemes, in China's coal-fired generation sector characterized by price regulation and high concentration. Our oligopoly model shows that TPS and C&T partially offset the adverse effects of power prices regulated below equilibrium. Unlike C&T, TPS further facilitates production reallocation towards low-emission firms, suggesting its efficacy in emission reduction. From market data, we uncover cost functions for five major firms in Guangdong province to conduct realistic policy simulations. Compared to the current TPS setup, the optimal TPS and C&T under the regulated price reduce emissions by 11.1 and 7.6 million tonnes, respectively. The optimal TPS enhances social welfare by 250 million RMB, while the optimal C&T decreases it by 485 million RMB. Moreover, the optimal TPS above approximates the case where the power price is further adjusted to maximize social welfare.
+  
   </details>  
 
 
@@ -46,8 +48,9 @@ header:
 - **"Market Power in Electricity Markets with Renewables: The Effects of Ownership and Forward Contract Allocation,"** with [Jing Long](https://jing042323.github.io/jing-long/). 
   <details>
     <summary>Abstract</summary>
-
+    
     Motivated by the growth of renewable generation and development of electricity market in China, this study analyzes the impact of renewable penetration on the market outcomes under different market and ownership structure. We construct a two-stage oligopolistic model consisting symmetric strategic suppliers and competitive fringe suppliers who are allowed to make production decisions for each of their generation technology. Based on the theoretical model, we further conduct a series of simulation study to illustrate the theoretical result by exploring different set of model parameter configurations. We find that the amount of price decline could be partially or fully reduced when strategic suppliers a large proportion of renewable generation assets as a result of market power. Using the ownership and capacity information of the “big-five” electricity groups, Our simulation shows that this ownership effect will emerge in the future Chinese electricity market according to China’s renewable policy and targets. Furthermore, the forward contracting stage is pro-competitive or even over-competitive, depending on both the market and ownership structure.
+  
   </details>  
 
 ## Works in progress
