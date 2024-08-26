@@ -11,11 +11,11 @@ header:
 
 ## Publications
 
-- **"Price ceilings as focal points to reach price uniformity: Evidence from the Chinese gasoline market,"** <i>Energy Economics</i>. 92, 1-11, 2020. [**corresponding author** with Xiaobing Zhang, Yinxin Fei and Lei Zhang.][Paper](https://doi.org/10.1016/j.eneco.2020.104950){:target="_blank"}.  
+- **"Price ceilings as focal points to reach price uniformity: Evidence from the Chinese gasoline market,"** <i>Energy Economics</i>. 92, 1-11, 2020. [**corresponding author** with Xiaobing Zhang, Yinxin Fei and Lei Zhang.][DOI](https://doi.org/10.1016/j.eneco.2020.104950){:target="_blank"}.  
 
-- **"The Dynamic Complementarity of Renewable Energy Sources: A Bayesian Vector Autoregressive Approach,"** <i>International Journal of Green Energy</i>. 1–13, 2022. [**corresponding author** with Jinliang Che, Zidong An and Feng Song.]. 
+- **"The Dynamic Complementarity of Renewable Energy Sources: A Bayesian Vector Autoregressive Approach,"** <i>International Journal of Green Energy</i>. 1–13, 2022. [**corresponding author** with Jinliang Che, Zidong An and Feng Song.][DOI](https://doi.org/10.1080/15435075.2022.2160933){:target="_blank"}.  
 
-- **"Accounting and Decomposition of China’s Co2 Emissions 1981–2020,"** <i>Applied Energy</i>. 124104, 2024. [**corresponding author** with Chen, Z., J. Ma, N. Wang, Z. Chen, L. Wang, Q. Xiong and P. Chen, H. Zhang.]
+- **"Accounting and Decomposition of China’s Co2 Emissions 1981–2020,"** <i>Applied Energy</i>. 124104, 2024. [**corresponding author** with Chen, Z., J. Ma, N. Wang, Z. Chen, L. Wang, Q. Xiong and P. Chen, H. Zhang.][DOI](https://doi.org/10.1016/j.apenergy.2024.124104){:target="_blank"}.  
 
 - **"Asymmetric Pass-through of Crude Oil Prices to Gasoline Prices: Evidence from Chinese Gasoline Pricing Reform,"** <i>International Journal of Global Environmental Issues</i>. [**Accepted**, **corresponding author** with Xiaobing Zhang and Mengyang Liu.]
 
