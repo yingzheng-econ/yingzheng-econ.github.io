@@ -11,15 +11,15 @@ header:
 
 ## Publications
 
-- **"Price ceilings as focal points to reach price uniformity: Evidence from the Chinese gasoline market,"** <i>Energy Economics</i>. 92, 1-11, 2020. [with Xiaobing Zhang, Yinxin Fei and Lei Zhang.][DOI](https://doi.org/10.1016/j.eneco.2020.104950){:target="_blank"}.  
+- **"Price ceilings as focal points to reach price uniformity: Evidence from the Chinese gasoline market,"** <i>Energy Economics</i>. 92, 1-11, 2020. [with Xiaobing Zhang, Yinxin Fei and Lei Zhang.] [DOI](https://doi.org/10.1016/j.eneco.2020.104950){:target="_blank"}.  
 
-- **"The Dynamic Complementarity of Renewable Energy Sources: A Bayesian Vector Autoregressive Approach,"** <i>International Journal of Green Energy</i>. 1–13, 2022. [with Jinliang Che, Zidong An and Feng Song.][DOI](https://doi.org/10.1080/15435075.2022.2160933){:target="_blank"}.  
+- **"The Dynamic Complementarity of Renewable Energy Sources: A Bayesian Vector Autoregressive Approach,"** <i>International Journal of Green Energy</i>. 1–13, 2022. [with Jinliang Che, Zidong An and Feng Song.] [DOI](https://doi.org/10.1080/15435075.2022.2160933){:target="_blank"}.  
 
-- **"Accounting and Decomposition of China’s Co2 Emissions 1981–2020,"** <i>Applied Energy</i>. 124104, 2024. [with Chen, Z., J. Ma, N. Wang, Z. Chen, L. Wang, Q. Xiong and P. Chen, H. Zhang.][DOI](https://doi.org/10.1016/j.apenergy.2024.124104){:target="_blank"}.  
+- **"Accounting and Decomposition of China’s Co2 Emissions 1981–2020,"** <i>Applied Energy</i>. 124104, 2024. [with Chen, Z., J. Ma, N. Wang, Z. Chen, L. Wang, Q. Xiong and P. Chen, H. Zhang.] [DOI](https://doi.org/10.1016/j.apenergy.2024.124104){:target="_blank"}.  
 
-- **"Asymmetric Pass-through of Crude Oil Prices to Gasoline Prices: Evidence from Chinese Gasoline Pricing Reform,"** <i>International Journal of Global Environmental Issues</i>. 47, 350–69.[with Xiaobing Zhang and Mengyang Liu.][DOI](https://www.inderscienceonline.com/doi/abs/10.1504/IJGEI.2025.146001){:target="_blank"}.  
+- **"Asymmetric Pass-through of Crude Oil Prices to Gasoline Prices: Evidence from Chinese Gasoline Pricing Reform,"** <i>International Journal of Global Environmental Issues</i>. 47, 350–69. 2025. [with Xiaobing Zhang and Mengyang Liu.] [DOI](https://www.inderscienceonline.com/doi/abs/10.1504/IJGEI.2025.146001){:target="_blank"}.  
 
--**"Plugging In for Cities: The Impact of Power Infrastructure on Urban Agglomeration,"** <i>Humanities and Social Sciences Communications</i>. [with Jialu Wu, Xiaohua Xia, Lianzhou Tang, Baifan Chen.] (**Accepted**)
+- **"Plugging In for Cities: The Impact of Power Infrastructure on Urban Agglomeration,"** <i>Humanities and Social Sciences Communications</i>. [with Jialu Wu, Xiaohua Xia, Lianzhou Tang, Baifan Chen.] (**Accepted**)
 
 ## Books
 **"Energy Storage and Electricity Markets for New Power Systems,"** <i>China Machine Press</i>, 2024(**in Chinese**),[with Xi He, Xuewen Geng, Shanpeng Pei and Jian Liu]. ISBN 9787111757733. [link](https://baike.baidu.com/item/面向新型电力系统的储能与电力市场/64572646?fr=ge_ala#reference-1){:target="_blank"}.  
@@ -61,10 +61,10 @@ header:
     This paper studies the optimal auction design by a revenue-maximizing seller in a two-stage auction model with selective entry. Following Stegeman (1996) and Lu (2009), I consider the feasible semidirect mechanism with a symmetric threshold-entry. In order to implement the optimal entry threshold, we need to consider a generalized virtual value, which is non-monotone in general. To handle the non-monotonicity of the generalized virtual value, I use the ironing technique described in Myerson (1981) to obtain a monotone (ironed) virtual value. Then we select the optimal mechanism to maximize the (ironed) virtual value.
   </details>   
 
-- **"Optimal Storage Adoption Level for Wind Farms: Evidence from China," with Yucheng Qian and Hui Qiao**. 
-
 - **"Market Power in Electricity Markets with Renewables: The Effects of Ownership and Forward Contract Allocation,"** with [Jing Long](https://jing042323.github.io/jing-long/).   
    <details>
      <summary>Abstract</summary>
      Motivated by the growth of renewable generation and development of electricity market in China, this study analyzes the impact of renewable penetration on the market outcomes under different market and ownership structure. We construct a two-stage oligopolistic model consisting symmetric strategic suppliers and competitive fringe suppliers who are allowed to make production decisions for each of their generation technology. Based on the theoretical model, we further conduct a series of simulation study to illustrate the theoretical result by exploring different set of model parameter configurations. We find that the amount of price decline could be partially or fully reduced when strategic suppliers a large proportion of renewable generation assets as a result of market power. Using the ownership and capacity information of the “big-five” electricity groups, Our simulation shows that this ownership effect will emerge in the future Chinese electricity market according to China’s renewable policy and targets. Furthermore, the forward contracting stage is pro-competitive or even over-competitive, depending on both the market and ownership structure.
-   </details>  
+   </details>   
+   
+- **"Optimal Storage Adoption Level for Wind Farms: Evidence from China,"** with Yucheng Qian and Hui Qiao.  
