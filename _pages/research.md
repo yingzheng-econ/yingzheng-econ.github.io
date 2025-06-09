@@ -41,13 +41,18 @@ header:
    <details>
      <summary>Abstract</summary>
      We analyze the impact of emission trading systems, such as tradable performance standards (TPS) and cap-and-trade (C&T) schemes, in China's coal-fired generation sector characterized by price regulation and high concentration. Our oligopoly model shows that TPS and C&T partially offset the adverse effects of power prices regulated below equilibrium. Unlike C&T, TPS further facilitates production reallocation towards low-emission firms, suggesting its efficacy in emission reduction. From market data, we uncover cost functions for five major firms in Guangdong province to conduct realistic policy simulations. Compared to the current TPS setup, the optimal TPS and C&T under the regulated price reduce emissions by 11.1 and 7.6 million tonnes, respectively. The optimal TPS enhances social welfare by 250 million RMB, while the optimal C&T decreases it by 485 million RMB. Moreover, the optimal TPS above approximates the case where the power price is further adjusted to maximize social welfare.  
+   </details>  
+   
+- **"Electric Vehicle Adoption and Energy Prices: Evidence from Four Nordic Countries,"**with Xiao-Bing Zhang, Jiayi Xu, Ramazan Sari, and Yanlai Chu. (**under review**)    
+   <details>
+     <summary>Abstract</summary>
+     While the transport sector accounts for around 25% of the EU’s total GHG emissions, the adoption of electric vehicles (EVs) plays an important role for EU to reach its net zero emissions goal. In addition to the widely used subsidies or tax exemption for EV purchases, energy prices, i.e., electricity price and gasoline price, can also be considered as instruments for government to induce consumers into EVs over ICE (internal combustion engine) vehicles. Using a unique panel of EV registrations at the product-level from four Nordic countries (Denmark, Finland, Norway, Sweden), this paper investigates how electricity prices and gasoline prices stimulate the adoption of EVs. The results show that gasoline price has a more statistically significant effect on the adoption of EVs, compared with electricity price. On average, 1% increase in gasoline price would increase the sales of EVs by 0.85% and the effect is larger for EV models with relatively lower purchase cost (where the effect of electricity price on stimulating adoption is also found statistically significant) and those with less-known brands. Further simulation results show that a 1% increase in the gasoline price would reduce the lifecycle GHG emissions of new automobiles by 0.16%. Our study highlights the importance of energy prices in accelerating EV adoption and mitigating carbon emissions in Nordic countries. 
    </details>    
 
 - **"Decoupling Urban Development and Land Use Carbon Emissions in Megacities,"** with Shan Guo, Qiyang Xiong, Mingxiang Gao, Ziyan Meng, Yang Wang, Weiyi Xia, and Zhan-Ming Chen. (**under review**). 
 
 - **"How Can Human Capital Accessibility Accelerate Economic Green Transformation? Evidence from Threshold and Intermediary Effects,"**with Yang Kun, Mo Donglin, Huang Chunlei, Zeng Liangen, and Xuejing Li. (**under review**)  
 
-- **"Electric Vehicle Adoption and Energy Prices: Evidence from Four Nordic Countries,"**with Xiao-Bing Zhang, Jiayi Xu, Ramazan Sari, and Yanlai Chu. (**under review**)
 
 
 ## Works in progress
