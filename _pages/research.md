@@ -22,9 +22,11 @@ header:
 - **"Plugging In for Cities: The Impact of Power Infrastructure on Urban Agglomeration,"** <i>Humanities and Social Sciences Communications</i>. [with Jialu Wu, Xiaohua Xia, Lianzhou Tang, Baifan Chen.] (**Accepted**)
 
 ## Books
-**《面向新型电力系统的储能与电力市场》**，<i>机械工业出版社</i>，2024年，贺徙，耿学文，裴善鹏，刘坚，郑𬎆。[简介](https://baike.baidu.com/item/面向新型电力系统的储能与电力市场/64572646?fr=ge_ala#reference-1){:target="_blank"}   
-- 2024年国家出版基金项目、“十四五”时期国家重点出版物出版专项规划项目。  
-- **"Energy Storage and Electricity Markets for New Power Systems,"** <i>China Machine Press</i>, 2024.   
+**《面向新型电力系统的储能与电力市场》**，贺徙、耿学文、裴善鹏、刘坚、郑𬎆著，<i>机械工业出版社</i>，2024年。  
+  <details>
+    <summary>内容简介</summary>
+    作为2024年国家出版基金项目和“十四五”时期国家重点出版物出版专项规划项目，本书系统总结了我国新型储能产业的发展现状，深入剖析了其参与电力市场的现状与瓶颈。书中详细借鉴了美国、德国、英国、澳大利亚、日本、韩国等发达国家在新型储能电力市场参与方面的先进政策经验，构建了多种储能类型在国外市场成功应用的基础模型，并结合市场响应进行了相关经济学理论分析。全书立足于学术与产业融合，贯穿了完善我国新型储能政策体系、加快市场机制建设以及推动产业链关键环节合理响应的启示和建议，具有重要的理论指导和实践参考价值。该书不仅适合能源政策、电力市场、新能源、能源经济、储能科学与工程、电力系统、电气工程等相关专业的本科高年级学生与研究生，也为政策制定者、科研人员、企业和投资机构提供了重要参考。
+  </details>  
 
 ## Working Papers
 
