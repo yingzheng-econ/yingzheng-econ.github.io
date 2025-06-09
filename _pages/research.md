@@ -22,7 +22,7 @@ header:
 - **"Plugging In for Cities: The Impact of Power Infrastructure on Urban Agglomeration,"** <i>Humanities and Social Sciences Communications</i>. [with Jialu Wu, Xiaohua Xia, Lianzhou Tang, Baifan Chen.] (**Accepted**)
 
 ## Books
-**《面向新型电力系统的储能与电力市场》** <i>机械工业出版社</i>，2024年，贺徙，耿学文，裴善鹏，刘坚，郑𬎆。[link](https://baike.baidu.com/item/面向新型电力系统的储能与电力市场/64572646?fr=ge_ala#reference-1){:target="_blank"}.    
+**《面向新型电力系统的储能与电力市场》** <i>机械工业出版社</i>，2024年，贺徙，耿学文，裴善鹏，刘坚，郑𬎆。[link](https://baike.baidu.com/item/面向新型电力系统的储能与电力市场/64572646?fr=ge_ala#reference-1){:target="_blank"}    
   <details>
   - 2024年国家出版基金项目、“十四五”时期国家重点出版物出版专项规划项目。  
   - **"Energy Storage and Electricity Markets for New Power Systems,"** <i>China Machine Press</i>, 2024.   
