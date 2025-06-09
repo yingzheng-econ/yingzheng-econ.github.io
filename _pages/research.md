@@ -30,14 +30,14 @@ header:
 
 ## Working Papers
 
-- **"How Costly to Sell a Company? A Structural Analysis of Takeover Auctions,"** with [Dong-Hyuk Kim](https://sites.google.com/site/kimdonghyuk000). (**under review**) [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3505106){:target="_blank"}.  
+- **"How Costly to Sell a Company? A Structural Analysis of Takeover Auctions,"** with [Dong-Hyuk Kim](https://sites.google.com/site/kimdonghyuk000). (**under review**). [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3505106){:target="_blank"}.  
 
   <details>
     <summary>Abstract</summary>
     To explain why sellers in takeover auctions limit bidders entry, we structurally measure economic costs incurred by the seller for inviting an additional bidder. Our auction model allows bidders to discount their synergy values when rivals obtain the target company’s confidential information, which induces the information cost. We identify the model primitives with unobserved heterogeneity, as confidential information is latent. From a sample of U.S. M&As, we find that the unobserved heterogeneity is critical, bidders lower values by 11.9% for each rival, and the information (operation) cost amounts to 1.3% (4.1%) of the equilibrium deal value for a representative target.
   </details>  
 
--  **"Designing Emissions Trading Schemes for a Price-Regulated and Concentrated Industry: Insights from China’s Power Sector,"** with [Dong-Hyuk Kim](https://sites.google.com/site/kimdonghyuk000) and [Hui Qiao](https://sites.google.com/view/huiqiao/). (**under review**).  
+-  **"Designing Emissions Trading Schemes for a Price-Regulated and Concentrated Industry: Insights from China’s Power Sector,"** with [Dong-Hyuk Kim](https://sites.google.com/site/kimdonghyuk000) and [Hui Qiao](https://sites.google.com/view/huiqiao/). (**under review**). [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5165942){:target="_blank"}.    
    <details>
      <summary>Abstract</summary>
      We analyze the impact of emission trading systems, such as tradable performance standards (TPS) and cap-and-trade (C&T) schemes, in China's coal-fired generation sector characterized by price regulation and high concentration. Our oligopoly model shows that TPS and C&T partially offset the adverse effects of power prices regulated below equilibrium. Unlike C&T, TPS further facilitates production reallocation towards low-emission firms, suggesting its efficacy in emission reduction. From market data, we uncover cost functions for five major firms in Guangdong province to conduct realistic policy simulations. Compared to the current TPS setup, the optimal TPS and C&T under the regulated price reduce emissions by 11.1 and 7.6 million tonnes, respectively. The optimal TPS enhances social welfare by 250 million RMB, while the optimal C&T decreases it by 485 million RMB. Moreover, the optimal TPS above approximates the case where the power price is further adjusted to maximize social welfare.  
