@@ -22,12 +22,16 @@ header:
 - **"Plugging In for Cities: The Impact of Power Infrastructure on Urban Agglomeration,"** <i>Humanities and Social Sciences Communications</i>. [with Jialu Wu, Xiaohua Xia, Lianzhou Tang, Baifan Chen.] (**Accepted**)
 
 ## Books
-**《面向新型电力系统的储能与电力市场》** <i>机械工业出版社</i>，2024年，贺徙，耿学文，裴善鹏，刘坚，郑𬎆。2024年国家出版基金项目、“十四五”时期国家重点出版物出版专项规划项目。  
-**"Energy Storage and Electricity Markets for New Power Systems,"** <i>China Machine Press</i> [link](https://baike.baidu.com/item/面向新型电力系统的储能与电力市场/64572646?fr=ge_ala#reference-1){:target="_blank"}.  
+**《面向新型电力系统的储能与电力市场》** <i>机械工业出版社</i>，2024年，贺徙，耿学文，裴善鹏，刘坚，郑𬎆。[link](https://baike.baidu.com/item/面向新型电力系统的储能与电力市场/64572646?fr=ge_ala#reference-1){:target="_blank"}.    
+  <details>
+  - 2024年国家出版基金项目、“十四五”时期国家重点出版物出版专项规划项目。  
+  - **"Energy Storage and Electricity Markets for New Power Systems,"** <i>China Machine Press</i>, 2024.   
+  </details>  
 
 ## Working Papers
 
-- **"How Costly to Sell a Company? A Structural Analysis of Takeover Auctions,"** with [Dong-Hyuk Kim](https://sites.google.com/site/kimdonghyuk000). (**under review**)
+- **"How Costly to Sell a Company? A Structural Analysis of Takeover Auctions,"** with [Dong-Hyuk Kim](https://sites.google.com/site/kimdonghyuk000). (**under review**) [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3505106){:target="_blank"}.  
+
   <details>
     <summary>Abstract</summary>
     To explain why sellers in takeover auctions limit bidders entry, we structurally measure economic costs incurred by the seller for inviting an additional bidder. Our auction model allows bidders to discount their synergy values when rivals obtain the target company’s confidential information, which induces the information cost. We identify the model primitives with unobserved heterogeneity, as confidential information is latent. From a sample of U.S. M&As, we find that the unobserved heterogeneity is critical, bidders lower values by 11.9% for each rival, and the information (operation) cost amounts to 1.3% (4.1%) of the equilibrium deal value for a representative target.
