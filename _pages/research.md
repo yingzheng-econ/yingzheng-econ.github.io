@@ -15,9 +15,11 @@ header:
 
 - **"The Dynamic Complementarity of Renewable Energy Sources: A Bayesian Vector Autoregressive Approach,"** <i>International Journal of Green Energy</i>. 1–13, 2022. [with Jinliang Che, Zidong An and Feng Song.] [DOI](https://doi.org/10.1080/15435075.2022.2160933){:target="_blank"}.  
 
-- **"Accounting and Decomposition of China’s Co2 Emissions 1981–2020,"** <i>Applied Energy</i>. 124104, 2024. [with Chen, Z., J. Ma, N. Wang, Z. Chen, L. Wang, Q. Xiong and P. Chen, H. Zhang.] [DOI](https://doi.org/10.1016/j.apenergy.2024.124104){:target="_blank"}.  
+- **"Accounting and Decomposition of China’s Co2 Emissions 1981–2020,"** <i>Applied Energy</i>. 124104, 2024. [with Jianhong Ma, Ning Wang, Zihao Chen, Libo Wang, Qiyang Xiong, Peilin Chen, Hongxia Zhang and Zhan-Ming Chen] [DOI](https://doi.org/10.1016/j.apenergy.2024.124104){:target="_blank"}.  
 
-- **"Asymmetric Pass-through of Crude Oil Prices to Gasoline Prices: Evidence from Chinese Gasoline Pricing Reform,"** <i>International Journal of Global Environmental Issues</i>. 47, 350–69. 2025. [with Xiaobing Zhang and Mengyang Liu.] [DOI](https://www.inderscienceonline.com/doi/abs/10.1504/IJGEI.2025.146001){:target="_blank"}.  
+- **"Asymmetric Pass-through of Crude Oil Prices to Gasoline Prices: Evidence from Chinese Gasoline Pricing Reform,"** <i>Energy Economics</i>. 146, 108521. 2025. [with Xiaobing Zhang and Mengyang Liu.] [DOI](https://www.inderscienceonline.com/doi/abs/10.1504/IJGEI.2025.146001){:target="_blank"}.  
+
+- **"Tax incentives for new energy vehicles challenge road infrastructure break-even,"** <i>International Journal of Global Environmental Issues</i>. 47, 350–69. 2025. [with Yiya Lu, Tianduo Peng, Lining Wang, Xunmin Ou, Xunzhang Pan and Zhan-Ming Chen] [DOI](https://doi.org/10.1016/j.eneco.2025.108521){:target="_blank"}.    
 
 - **"Plugging In for Cities: The Impact of Power Infrastructure on Urban Agglomeration,"** <i>Humanities and Social Sciences Communications</i>. [with Jialu Wu, Xiaohua Xia, Lianzhou Tang, Baifan Chen.] (**Accepted**)
 
