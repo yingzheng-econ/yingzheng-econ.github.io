@@ -9,7 +9,9 @@ header:
 
 - Advanced Microeconomic Theory([Course Page](https://yingzheng-econ.github.io/Advanced-Microeconomics//))([Syllabus](/Syllabus-Microeconomics-2024-Fall-RUC.pdf))
 
-- Empirical Industrial Organization([Course Page](https://yingzheng-econ.github.io/Empirical-IO-Course/))([Syllabus](/Syllabus-EIO-RUC-2022-Fall-EN.pdf))
+- Empirical Industrial Organization([Course Page](https://yingzheng-econ.github.io/Empirical-IO-Course/))([Syllabus](/Syllabus-EIO-RUC-2022-Fall-EN.pdf))  
+
+- 电力经济学十讲([课程主页](https://yingzheng-econ.github.io/Econ_Power_Market/))
 
 ### Past Courses  
 
